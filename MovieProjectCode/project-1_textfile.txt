@@ -1,0 +1,87 @@
+Box office receipts for highest grossing movies and discovering the formula for maximizing profits from the production of movies domestically and internationally. This kind of research has a market and we could discover trends for where the market for movie making is heading.
+
+Every category of movie will be compared by the key variables.
+
+*comprada con, Spanish for  "compared with". Not plotted as axes of a graph, rather they will be compared directly as to which is greater. Example: Graph XXX cc YYY data would be displayed as either (XXX - YYY), so how much more of XXX than YYY, or (XXX / YYY), the ratio of XXX to YYY.
+
+**Sequel means produced after original, regardless of chronology within movie universe.
+
+
+Questions:
+
+Do sequels/ remakes generally make more money than indie films?
+
+What correlation is there with Box Office Receipts and Audience reception (00.0 to 10.0)?
+
+What correlation is there with Production Budget and Box Office Receipts?
+
+
+
+key variables that might be useful to analyze: 
+
+Graph, rate of change of Graph, 2nd order rate of change of Graph, D(Means), D^2(Variances), STDEVs, D^3(Skewnesses), Medians, Box Plots, Markowitz Mean-Variance Portfolio Theory***
+
+
+Key terms that might be useful to analyze:
+
+Box Office vs Budget
+
+Audience Reception vs Box Office
+
+Audience Reception vs Budget
+
+Fiction cc* Nonfiction
+
+New Film cc Sequels**
+
+
+
+
+
+
+Hypothesis: More movie studios are headed towards the trend of remakes and sequels, because a well-liked movie previously made will have some sort of audience willing to pay to watch a sequel. 
+
+
+
+***I have a sneaky sneaky suspicion that utilizing "Markowitz Mean-Variance Portfolio Theory", even tho this appears to have nothing to do with finance, can be a great thing to be educated on, since nothing is guaranteed in life.
+
+Explanation: A movie can generate anywhere from $0 to $INFINITY (assume $10,000,000,000 is max). Even if there's an expected amount of revenue, there has to be a certain percentage of chance that the movie won't make that expected amount (10% chance, 5%, or even like 0.01% chance). Whatever it is, there is risk, no matter how small. If we can figure out if different movie types have different percentages of risk, we could basically create a "portfolio" for a company, telling them what percentage of the money want to invest should go into certain film genres, movie studios, or even original vs non-original. This portfolio would give this company the (hopefully) least risky way of investing.
+
+Ex, it is better to receive on average $1,000,000 a year with a very small variabilty than receiving $10,000,000 a year with a lot of variability (that could even go negative).
+
+
+TMDB API Credit:
+Use the TMDB logo to identify your use of the TMDB APIs.
+
+Use this disclosure: "This project uses the TMDB API and is neither endorsed nor certified by TMDB."
+
+Any use of the TMDB logo in your application shall be less prominent than the logo or mark that primarily describes the application and your use of the TMDB logo shall not imply any endorsement by TMDB.
+
+
+A List of Questions:
+
+1. Do movies that are based on established franchises (Sequels, prequels, etc) make more money compared to movies of brand new franchises?
+
+2. Is there any correlation between Budget and Box Office Receipts? (Linear, exponential, logarithmic, etc)
+
+3. Is there any correlation between Audience Reception and Box Office Receipts? (Linear, exponential, logarithmic, etc)
+
+4. Is there any correlation between Audience Reception and Budget? (Linear, exponential, logarithmic, etc)
+
+5. Can we guestimate what percentage that a movie, either based on budget or genre or other criteria, that it'll either not break even or not exceed box office expectations?
+
+6. Are certain types of movies more likely to not break even or not exceed box office expectations?
+
+7. How much variance is there among a movie's budget, box office, or audience reception?
+
+8. Do all or most of the top 10 movies by Box Office have certain matching characteristics?
+
+9. If a movie has these matching characteristics, how likely is it that (a) the movie is in the Top 10? (b) the movie does better in either Box Office Receipts or Audience reception than the mean and/or the median of either?
+
+10. Does Audience Reception significantly differ by movie genres?
+
+
+
+
+
+
