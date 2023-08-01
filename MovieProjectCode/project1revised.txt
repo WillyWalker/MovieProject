@@ -1,0 +1,49 @@
+# Movie Sales and Consumer Tastes Research Project
+
+## Introduction
+
+Welcome to our research project on movie sales and consumer tastes! In this study, we aim to gain insights into consumer preferences and behavior by analyzing data related to movie profitability, budget, run time, and revenue distribution. Our investigation will cover the period from 2007 to 2017 and delve into various aspects of the movie industry to answer specific research questions.
+
+## Research Questions
+
+Our research project seeks to answer the following questions:
+
+1. **Which movies made the most money in the years 2007 to 2017?**
+   
+   We will identify the top-grossing movies over the ten-year period and analyze their performance in terms of revenue generated.
+
+2. **What were the top ten profitable movies of each year?**
+   
+   For each year between 2007 and 2017, we will determine the ten movies that achieved the highest profits and examine their characteristics.
+
+3. **What is the correlation between a movie's budget and its profitability?**
+   
+   We will investigate the relationship between a movie's production budget and its financial success, aiming to uncover whether higher budgets lead to higher profits.
+
+4. **What's the correlation between a movie's run time and its popularity?**
+   
+   By analyzing the runtime of movies and their popularity, we hope to discover if there is any connection between the two factors.
+
+5. **What percentage did each movie take of the total revenue of the top ten movies over the ten-year period 2007-2017?**
+   
+   We will determine the portion of the total revenue contributed by each movie among the top ten highest-grossing films from 2007 to 2017.
+
+## Data Source and Preparation
+
+To conduct this research, we will utilize a dataset that includes information on movie sales, budgets, runtimes, and other relevant attributes. The dataset has been collected and filtered from TMDb (The Movie Database) to fit our specific research criteria.
+
+## Methodology
+
+We will apply statistical analysis and data visualization techniques to explore the data, understand patterns, and draw meaningful conclusions. By using appropriate tools, we aim to provide clear and insightful results for each of the research questions.
+
+## Disclaimer
+
+Please note that the findings of this research are based on historical data up to the year 2017. The movie industry is continually evolving, and consumer preferences may have changed since then. Therefore, the insights provided in this study may not reflect current trends.
+
+## Conclusion
+
+We believe that this research will shed light on the relationship between movie sales and consumer tastes, providing valuable insights for both the movie industry and enthusiasts. Our analysis will be presented through visualizations and easy-to-understand interpretations to make the findings accessible to all readers.
+
+Thank you for your interest in our research project, and we look forward to sharing our discoveries with you! If you have any questions or feedback, please feel free to contact us.
+
+Research Team
